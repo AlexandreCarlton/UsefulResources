@@ -16,14 +16,19 @@ I might need later.
 
  - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) ([Hacker News](https://news.ycombinator.com/item?id=13676729))
 
-## Algorithms
+
+## Computer Science
+
+ - [Teach Yourself Computer Science](https://teachyourselfcs.com/) ([Hacker News](https://news.ycombinator.com/item?id=13862284))
+
+### Algorithms
 
  - [Introduction to A*](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
-### Implementations
+#### Implementations
  - [Data Structures and Algorithms Problems in C++ using STL](http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/)
 
 
-## Functional Programming
+### Functional Programming
 
  - [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
