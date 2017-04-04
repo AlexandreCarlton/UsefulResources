@@ -7,10 +7,13 @@ do so and results in an dishevelled heap that is hard to locate.
 So for now this is a small list of things onto which I'll just tack links that
 I might need later.
 
+## Interviewing
+
+ - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) ([Hacker News](https://news.ycombinator.com/item?id=14022110))
 
 ## System Design
+
  - [The System Design Primer](https://github.com/donnemartin/system-design-primer) ([Hacker News](https://news.ycombinator.com/item?id=13823979))
- -
 
 ## Coding patterns
 
