@@ -10,6 +10,7 @@ I might need later.
 ## Interviewing
 
  - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) ([Hacker News](https://news.ycombinator.com/item?id=14022110))
+ - [Competitive Programmer's Handbook](https://cses.fi/book.pdf) ([Hacker News](https://news.ycombinator.com/item?id=14115826) [Reddit](https://www.reddit.com/r/programming/comments/65fjs2/competitive_programmers_handbook))
 
 ## System Design
 
