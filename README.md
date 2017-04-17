@@ -36,3 +36,9 @@ I might need later.
 ### Functional Programming
 
  - [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+
+#### Haskell
+
+ - [BFS Tree](https://www.nmattia.com/posts/2016-07-31-bfs-tree.html)
+ - [Three Useful Monads](https://adit.io/posts/2013-06-10-three-useful-monads.html)
+ - [Aeson: the tutorial](https://artyom.me/aeson)
