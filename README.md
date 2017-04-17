@@ -25,6 +25,11 @@ I might need later.
 
  - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) ([Hacker News](https://news.ycombinator.com/item?id=13676729))
 
+## Languages
+
+### Python
+
+ - [Structuring Your Project](http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/)
 
 ## Computer Science
 
