@@ -7,6 +7,10 @@ do so and results in an dishevelled heap that is hard to locate.
 So for now this is a small list of things onto which I'll just tack links that
 I might need later.
 
+## Other (Better) Lists
+
+ - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+
 ## Interviewing
 
  - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) ([Hacker News](https://news.ycombinator.com/item?id=14022110))
