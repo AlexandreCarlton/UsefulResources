@@ -39,6 +39,6 @@ I might need later.
 
 #### Haskell
 
- - [BFS Tree](https://www.nmattia.com/posts/2016-07-31-bfs-tree.html)
- - [Three Useful Monads](https://adit.io/posts/2013-06-10-three-useful-monads.html)
+ - [BFS Tree](http://www.nmattia.com/posts/2016-07-31-bfs-tree.html)
+ - [Three Useful Monads](http://adit.io/posts/2013-06-10-three-useful-monads.html)
  - [Aeson: the tutorial](https://artyom.me/aeson)
