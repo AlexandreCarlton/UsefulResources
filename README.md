@@ -52,3 +52,4 @@ I might need later.
  - [BFS Tree](http://www.nmattia.com/posts/2016-07-31-bfs-tree.html)
  - [Three Useful Monads](http://adit.io/posts/2013-06-10-three-useful-monads.html)
  - [Aeson: the tutorial](https://artyom.me/aeson)
+ - [Imperative Haskell](http://vaibhavsagar.com/blog/2017/05/29/imperative-haskell/) ([Reddit](https://www.reddit.com/r/haskell/comments/6e4wq8/imperative_haskell/))
