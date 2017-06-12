@@ -18,7 +18,12 @@ I might need later.
  - [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
 
 ## Hardware
+
+### Memory
  - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+
+### Network
+ - [A Protocol for Packet Network Intercommunication](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)
 
 ## System Design
 
