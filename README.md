@@ -17,6 +17,9 @@ I might need later.
  - [Competitive Programmer's Handbook](https://cses.fi/book.pdf) ([Hacker News](https://news.ycombinator.com/item?id=14115826) [Reddit](https://www.reddit.com/r/programming/comments/65fjs2/competitive_programmers_handbook))
  - [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
 
+## Hardware
+ - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+
 ## System Design
 
  - [The System Design Primer](https://github.com/donnemartin/system-design-primer) ([Hacker News](https://news.ycombinator.com/item?id=13823979))
