@@ -16,6 +16,12 @@ I might need later.
  - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) ([Hacker News](https://news.ycombinator.com/item?id=14022110))
  - [Competitive Programmer's Handbook](https://cses.fi/book.pdf) ([Hacker News](https://news.ycombinator.com/item?id=14115826) [Reddit](https://www.reddit.com/r/programming/comments/65fjs2/competitive_programmers_handbook))
  - [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
+ - [InterviewCake](https://interviewcake.com)
+ - [kdn251/interviews](https://github.com/kdn251/interviews)
+
+## Competitive Programming
+
+ - [Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 
 ## Hardware
 
@@ -46,6 +52,7 @@ I might need later.
 ### Algorithms
 
  - [Introduction to A*](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
+ - [AlgoWiki](https://wiki.algo.is/)
 
 #### Implementations
  - [Data Structures and Algorithms Problems in C++ using STL](http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/)
