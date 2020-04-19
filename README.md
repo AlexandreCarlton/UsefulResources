@@ -5,7 +5,7 @@ promise myself to get around to finishing later. Of course, generally I never
 do so and results in an dishevelled heap that is hard to locate.
 
 So for now this is a small list of things onto which I'll just tack links that
-I might need later.
+I might need later, or found useful and should look at again.
 
 ## Other (Better) Lists
 
@@ -30,6 +30,8 @@ I might need later.
 
 ### Network
  - [A Protocol for Packet Network Intercommunication](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)
+ - [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180)
+ - [Understanding TCP/IP addressing and subnetting basics](https://support.microsoft.com/en-au/help/164015/understanding-tcp-ip-addressing-and-subnetting-basics)
 
 ## System Design
 
