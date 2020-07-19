@@ -33,6 +33,10 @@ I might need later, or found useful and should look at again.
  - [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180)
  - [Understanding TCP/IP addressing and subnetting basics](https://support.microsoft.com/en-au/help/164015/understanding-tcp-ip-addressing-and-subnetting-basics)
 
+### Operating Systems
+
+ - [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+
 ## System Design
 
  - [The System Design Primer](https://github.com/donnemartin/system-design-primer) ([Hacker News](https://news.ycombinator.com/item?id=13823979))
