@@ -74,3 +74,8 @@ I might need later, or found useful and should look at again.
  - [Three Useful Monads](http://adit.io/posts/2013-06-10-three-useful-monads.html)
  - [Aeson: the tutorial](https://artyom.me/aeson)
  - [Imperative Haskell](http://vaibhavsagar.com/blog/2017/05/29/imperative-haskell/) ([Reddit](https://www.reddit.com/r/haskell/comments/6e4wq8/imperative_haskell/))
+
+### Distributed programming
+
+ - [6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
+
