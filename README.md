@@ -27,6 +27,7 @@ I might need later, or found useful and should look at again.
 
 ### Memory
  - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+ - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 
 ### Network
  - [A Protocol for Packet Network Intercommunication](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)
